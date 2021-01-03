@@ -10,3 +10,7 @@ h1{
 p{
 	color: lime;
 }
+button{
+	padding: 6px 8px;
+	font-weight: bold;
+}
