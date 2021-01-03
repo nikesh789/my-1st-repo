@@ -7,15 +7,18 @@ h1{
 	text-align: center;
 	padding: 10px 0px;
 }
-div{
+span{
 	display: flex;
-	justify-content: center;
-	padding: 7px;
+	justify-content: space-around;
 }
 article{
-	width: 70%;
+	width: 30%;
+	font-size: 1.6em;
+	border: 2px solid white;
+	padding: 7px;
 }
 button{
+	margin-top: 9px;
 	padding: 6px 8px;
 	font-weight: bold;
 }
