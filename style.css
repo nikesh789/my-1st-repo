@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-color: brown;
 }
 h1{
 	background-color: orange;
@@ -7,8 +7,13 @@ h1{
 	text-align: center;
 	padding: 10px 0px;
 }
-p{
-	color: lime;
+div{
+	display: flex;
+	justify-content: center;
+	padding: 7px;
+}
+article{
+	width: 70%;
 }
 button{
 	padding: 6px 8px;
