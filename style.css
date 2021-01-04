@@ -21,4 +21,9 @@ button{
 	margin-top: 9px;
 	padding: 6px 8px;
 	font-weight: bold;
+	display: inline-flex;
+}
+.btn{
+	justify-content: center;
+	margin-top: 10px;
 }
